@@ -1,0 +1,6 @@
+Pillow==9.1.0
+psutil==5.9.0
+pynput==1.7.6
+PyRect==0.2.0
+pyscreenshot==3.0
+requests==2.27.1
